@@ -1,4 +1,8 @@
 {
     "python.defaultInterpreterPath": "C:/Users/ougha/Desktop/capes/.venv/Scripts/python.exe",
-    "editor.inlineSuggest.enabled": false
+    "editor.inlineSuggest.enabled": false,
+    "git.path": "C:/Program Files/Git/cmd/git.exe",
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Program Files\\Git\\cmd;${env:PATH}"
+    }
 }
